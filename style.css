@@ -1,0 +1,41 @@
+
+a:link {
+    color: #49243E;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: brown;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fdfcfc;
+}
+.first{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 0.3fr;
+    background-color: #49243E;
+    padding-left: 3% ;
+    
+}
+
+.second{
+    
+    background-color: #BB8493;
+}
+
+h1{
+    color: #49243E;
+}
+
+.last{
+    background-color: #49243E
+}
